@@ -35,8 +35,7 @@ namespace ToyRobotTest
         {
             // Arrange
             var simulation = new Simulation();
-            var testRobot = new ToyRobot(new ToyRobotCoordinate() { Direction = Direction.NORTH, XCoordinate = 0, YCoordinate = 0 });
-
+            
             // Act
             simulation.Place(6, 0, Direction.NORTH);
 
