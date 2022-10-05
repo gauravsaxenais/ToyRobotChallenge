@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ToyRobotChallenge": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\hpadmin\\Desktop\\file.txt"
+    }
+  }
+}
